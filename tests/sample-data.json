@@ -1,0 +1,38 @@
+{
+  "notice": "All records are fictional and are for local/demo testing only. Do not use these as production accounts.",
+  "student_profiles": [
+    {
+      "id": "11111111-1111-4111-8111-111111111111",
+      "name": "Aarav Sharma",
+      "email": "aarav.demo@example.com",
+      "is_school_student": true,
+      "grade": "Grade 10",
+      "board": "CBSE",
+      "state": "Tamil Nadu",
+      "medium": "English",
+      "subjects": ["Science", "Mathematics"],
+      "main_goal": "Prepare for exams"
+    },
+    {
+      "id": "22222222-2222-4222-8222-222222222222",
+      "name": "Meera Iyer",
+      "email": "meera.demo@example.com",
+      "is_school_student": false,
+      "degree": "B.Tech / B.E.",
+      "department": "Computer Science & Engg (CSE)",
+      "year_or_sem": "Semester 4",
+      "subjects": ["Software Engineering", "Data Structures"],
+      "main_goal": "Concept learning"
+    }
+  ],
+  "example_questions": [
+    {
+      "profile_name": "Aarav Sharma",
+      "question": "Explain photosynthesis in simple words and give me three revision points."
+    },
+    {
+      "profile_name": "Meera Iyer",
+      "question": "Explain the Waterfall Model with its phases, advantages, and limitations."
+    }
+  ]
+}
